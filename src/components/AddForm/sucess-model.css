@@ -1,0 +1,25 @@
+.modal-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.added-image {
+    height: 300px;
+}
+
+.take-home-button {
+    display: flex;
+    border: 1px solid black;
+    padding: 4px 8px;
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+}
+
+.take-home-button i {
+    margin-right: 6px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
